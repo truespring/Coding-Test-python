@@ -7,7 +7,11 @@
     1. print("{key}".format(key=value))
     2. print(f"{key}")
     3. print("{}".format(value))
-    4. print("%s%d" & (string.value, int.value))
+    4. print("%s%d" % (string.value, int.value))
+    ```
+* 입력문
+    ```
+    input("")
     ```
 * 배열
 

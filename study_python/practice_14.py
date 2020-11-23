@@ -7,7 +7,7 @@
 # else:
 #     print("준비물 필요 없어요.")
 
-temp = int(input("기온은 어때요? "))
+temp = int(input("기온은 어때요? ")) # 입력문
 if 30 <= temp:
     print("너무 더워요. 나가지 마세요")
 elif 10 <= temp and temp <30:
