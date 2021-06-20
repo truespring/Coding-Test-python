@@ -6,8 +6,8 @@
 - 구현
 - DFS/BFS 를 활용한 탐색
 
-<img src="images/img01.jpg" alt="알고리즘 코딩 테스트 유형 분석01" width="450px" height="350px"></img>
-<img src="images/img02.jpg" alt="알고리즘 코딩 테스트 유형 분석02" width="450px" height="350px"></img>
+<img src="images/img01.jpg" alt="알고리즘 코딩 테스트 유형 분석01" width="650px" height="350px"></img>
+<img src="images/img02.jpg" alt="알고리즘 코딩 테스트 유형 분석02" width="650px" height="350px"></img>
 
 ## 복잡도(Complexity)
 
