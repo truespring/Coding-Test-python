@@ -6,8 +6,8 @@
 - 구현
 - DFS/BFS 를 활용한 탐색
 
-<img src="images/img01.jpg" alt="알고리즘 코딩 테스트 유형 분석01" width="150px" height="150px"></img>
-<img src="images/img02.jpg" alt="알고리즘 코딩 테스트 유형 분석02" width="150px" height="150px"></img>
+<img src="images/img01.jpg" alt="알고리즘 코딩 테스트 유형 분석01" width="450px" height="350px"></img>
+<img src="images/img02.jpg" alt="알고리즘 코딩 테스트 유형 분석02" width="450px" height="350px"****></img>
 
 ## 복잡도(Complexity)
 
@@ -25,7 +25,7 @@
 - 예를 들어 연산 횟수가 3N<sup>3</sup> + 5N<sup>2</sup> + 1,000,000인 알고리즘이 있다고 합시다.
     - 빅오 표기법에서는 차수가 가장 큰 항만을 남기므로 O(N<sup>3</sup>)으로 표현됩니다.
 
-<img src="images/img03.jpg" alt="빅오 표기법" width="150px" height="150px"></img>
+<img src="images/img03.jpg" alt="빅오 표기법" width="450px" height="350px"></img>
 
 ## 알고리즘 설계 Tip
 
