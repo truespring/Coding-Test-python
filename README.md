@@ -1,18 +1,9 @@
 # 코딩테스트를 위한 자료공간
 
-## 먼저 python 간단한 문법 배우기
-* 변수 다루기
-* 다양한 출력문 
-    ```
-    1. print("{key}".format(key=value))
-    2. print(f"{key}")
-    3. print("{}".format(value))
-    4. print("%s%d" % (string.value, int.value))
-    ```
-* 입력문
-    ```
-    input("")
-    ```
-* 배열
+## IT 기업 코딩 테스트 최신 출제 경향
 
-### python을 통해 알고리즘 해결하기
+- 그리디(쉬운 난이도)
+- 구현
+- DFS/BFS 를 활용한 탐색
+
+<img src="images/img01.jpg" alt="알고리즘 코딩 테스트 유형 분석">
