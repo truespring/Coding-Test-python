@@ -185,7 +185,7 @@ for _ in range(5):
 
 ### 리스트 관련 기타 메서드
 
-<img src="images/img04.jpg" alt="리스트 관련 기타 메서드" width="450px" height="350px"></img>
+<img src="images/img04.jpg" alt="리스트 관련 기타 메서드" width="600px" height="350px"></img>
 
 ### 문자열 자료형
 
