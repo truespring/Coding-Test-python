@@ -354,20 +354,20 @@ else:
 - 비교 연산자는 특정한 두 값을 비교핼 때 이용할 수 있습니다.
     - 대입 연산자(=)와 같음 연산자(==)의 차이점에 유의하세요.
 
-<img src="images/img05.png" alt="비교 연산자" width="450px" height="350px"></img>
+<img src="images/img05.PNG" alt="비교 연산자" width="450px" height="350px"></img>
 
 ### 논리 연산자
 
 - 논리 연산자는 논리 값 (True/False) 사이의 연산을 수행할 때 사용합니다.
 
-<img src="images/img06.png" alt="논리 연산자" width="450px" height="350px"></img>
+<img src="images/img06.PNG" alt="논리 연산자" width="450px" height="350px"></img>
 
 ### 파이썬의 기타 연산자
 
 - 다수의 데이터를 담는 자료형을 위해 in 연산자와 not in 연산자가 제공됩니다.
     - 리스트, 튜플, 문자열, 딕셔너리 모두에서 사용이 가능합니다.
 
-<img src="images/img07.png" alt="기타 연산자" width="450px" height="350px"></img>
+<img src="images/img07.PNG" alt="기타 연산자" width="450px" height="350px"></img>
 
 ### 파이썬의 pass 키워드
 
@@ -412,7 +412,7 @@ print(result)
 - 다른 프로그래밍 언어와 다르게 파이써은 조건문 안에서 수학의 부등식을 그대로 사용할 수 있습니다.
 - 예를 들어 x > 0 and x < 20 과 0 < x < 20은 같은 결과를 반환합니다.
 
-<img src="images/img08.png" alt="부등식" width="450px" height="350px"></img>
+<img src="images/img08.PNG" alt="부등식" width="450px" height="350px"></img>
 
 ------------------------
 
