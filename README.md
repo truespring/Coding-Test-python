@@ -412,7 +412,7 @@ print(result)
 - 다른 프로그래밍 언어와 다르게 파이써은 조건문 안에서 수학의 부등식을 그대로 사용할 수 있습니다.
 - 예를 들어 x > 0 and x < 20 과 0 < x < 20은 같은 결과를 반환합니다.
 
-<img src="images/img08.PNG" alt="부등식" width="550px" height="150px"></img>
+<img src="images/img08.PNG" alt="부등식" width="650px" height="120px"></img>
 
 ------------------------
 
