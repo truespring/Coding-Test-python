@@ -367,7 +367,7 @@ else:
 - 다수의 데이터를 담는 자료형을 위해 in 연산자와 not in 연산자가 제공됩니다.
     - 리스트, 튜플, 문자열, 딕셔너리 모두에서 사용이 가능합니다.
 
-<img src="images/img07.PNG" alt="기타 연산자" width="550px" height="150px"></img>
+<img src="images/img07.PNG" alt="기타 연산자" width="600px" height="150px"></img>
 
 ### 파이썬의 pass 키워드
 
