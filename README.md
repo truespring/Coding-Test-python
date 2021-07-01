@@ -6,8 +6,9 @@
 - 구현
 - DFS/BFS 를 활용한 탐색
 
-<img src="images/img01.jpg" alt="알고리즘 코딩 테스트 유형 분석01" width="650px" height="350px"></img>
-<img src="images/img02.jpg" alt="알고리즘 코딩 테스트 유형 분석02" width="650px" height="350px"></img>
+![img.jpg](images/img01.jpg)
+
+![img.jpg](images/img02.jpg)
 
 ## 복잡도(Complexity)
 
@@ -25,7 +26,7 @@
 - 예를 들어 연산 횟수가 3N<sup>3</sup> + 5N<sup>2</sup> + 1,000,000인 알고리즘이 있다고 합시다.
     - 빅오 표기법에서는 차수가 가장 큰 항만을 남기므로 <em>O(N<sup>3</sup>)</em>으로 표현됩니다.
 
-<img src="images/img03.jpg" alt="빅오 표기법" width="450px" height="350px"></img>
+![img.jpg](images/img03.jpg)
 
 ## 알고리즘 설계 Tip
 
@@ -185,7 +186,7 @@ for _ in range(5):
 
 ### 리스트 관련 기타 메서드
 
-<img src="images/img04.jpg" alt="리스트 관련 기타 메서드" width="600px" height="350px"></img>
+![img.jpg](images/img04.jpg)
 
 ### 문자열 자료형
 
@@ -354,20 +355,20 @@ else:
 - 비교 연산자는 특정한 두 값을 비교핼 때 이용할 수 있습니다.
     - 대입 연산자(=)와 같음 연산자(==)의 차이점에 유의하세요.
 
-<img src="images/img05.PNG" alt="비교 연산자" width="550px" height="350px"></img>
+![img.png](images/img05.png)
 
 ### 논리 연산자
 
 - 논리 연산자는 논리 값 (True/False) 사이의 연산을 수행할 때 사용합니다.
 
-<img src="images/img06.PNG" alt="논리 연산자" width="450px" height="150px"></img>
+![img.png](images/img06.png)
 
 ### 파이썬의 기타 연산자
 
 - 다수의 데이터를 담는 자료형을 위해 in 연산자와 not in 연산자가 제공됩니다.
     - 리스트, 튜플, 문자열, 딕셔너리 모두에서 사용이 가능합니다.
 
-<img src="images/img07.PNG" alt="기타 연산자" width="600px" height="150px"></img>
+![img.png](images/img07.png)
 
 ### 파이썬의 pass 키워드
 
@@ -412,7 +413,7 @@ print(result)
 - 다른 프로그래밍 언어와 다르게 파이써은 조건문 안에서 수학의 부등식을 그대로 사용할 수 있습니다.
 - 예를 들어 x > 0 and x < 20 과 0 < x < 20은 같은 결과를 반환합니다.
 
-<img src="images/img08.PNG" alt="부등식" width="650px" height="120px"></img>
+![img.png](images/img08.png)
 
 ### 반복문
 
@@ -548,11 +549,11 @@ print(a)  # 10
 - 파이썬에서 함수는 여러 개의 반환 값을 가질 수 있습니다.
 
 ```python
-def operator(a, b):
-    add_var = a + b
-    subtract_var = a - b
-    multiply_var = a * b
-    divide_var = a / b
+def operator(x, y):
+    add_var = x + y
+    subtract_var = x - y
+    multiply_var = x * y
+    divide_var = x / y
     return add_var, subtract_var, multiply_var, divide_var
 
 
@@ -664,8 +665,8 @@ import math
 
 
 # 최소 공배수(LCM)를 구하는 함수
-def lcm(a, b):
-    return a * b // math.gcd(a, b)
+def lcm(x, y):
+    return x * y // math.gcd(x, y)
 
 
 a = 21
