@@ -43,7 +43,6 @@
 - 이 알고리즘의 시간 복잡도는 거슬러줘야 하는 금액과는 무관하며, 동전의 총 종류에만 영햐을 받습니다.
 
 ```c++
-C++ code
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -63,8 +62,6 @@ int main(void) {
 ```
 
 ```java
-Java code
-
 public class Main {
 
   public static void main(String[] args) {
